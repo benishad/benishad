@@ -18,7 +18,7 @@
     
 <div align=center>
     
-<a href="https://instagram.com/yoondong.22">
+<a href="https://instagram.com/yoondong.22" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yoondong.22/"
         />
@@ -30,9 +30,6 @@
 </a>
 </div>
 
-<hr>
-
-<div align=center><h3> SNS </h3></div>
 
 
 
