@@ -16,7 +16,7 @@
 <a href="https://instagram.com/yoondong.22">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yoondong.22/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a> <a href="mailto:qpslti1033@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qpslti1033@gmail.com"
@@ -25,6 +25,7 @@
 
 </div>
 
+<hr>
 
 <img src="https://img.shields.io/badge/github-GIVEME--STAR-red"/>
 <img src="https://img.shields.io/badge/-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
