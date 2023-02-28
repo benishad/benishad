@@ -13,7 +13,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenishad&count_bg=%23696B7C&title_bg=%239CADEB&icon=github.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/benishad?style=social)
     
-
+<br/>
+<br/>
 
 ### :clipboard: SNS :clipboard:
     
@@ -30,12 +31,15 @@
         />
 </a>
     
+<br/>
     
-###  :pencil2: MY SKILL  :pencil2:
+###  :pencil2: My Skills :pencil2:
     
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
-    
-    
+<img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>    
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>        
     
 </div>
 
@@ -59,8 +63,15 @@
 
 </div>
 유용한 사이트
+
+이모티콘
+https://security-nanglam.tistory.com/491
+
 https://simpleicons.org/
 https://shields.io/
+
+
+참고
 https://velog.io/@somm/Github-readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 
 style="height : auto; margin-left : 10px; margin-right : 10px;"
