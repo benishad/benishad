@@ -20,7 +20,7 @@
 </a> 
 <a href="mailto:qpslti1033@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qpslti1033@gmail.com"
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qpslti1033@gmail.com&logoColor=black"
         />
 </a>
 
