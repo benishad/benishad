@@ -25,7 +25,7 @@
 </a>
 <hr>
     <img 
-        src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"
+        src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"
         />
 
 </div>
