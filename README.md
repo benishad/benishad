@@ -31,16 +31,21 @@
 </div>
 
 <hr>
+<div align=center>
+    
+    <h3> SKILL </h3>
+    
     <img 
         src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"
         />
+    <img 
+         src="https://img.shields.io/badge/-0696D7?style=flat-square&logo=Autodesk&logoColor=white"
+         />
 
 </div>
 
-<hr>
 
-<img src="https://img.shields.io/badge/github-GIVEME--STAR-red"/>
-<img src="https://img.shields.io/badge/-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
+
                                                                                                
 
 <!--
