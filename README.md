@@ -15,7 +15,7 @@
 
 <a href="https://instagram.com/yoondong.22">
     <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/yoondong.22/"
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/yoondong.22/&logoColor=white"
         />
 </a> 
 <a href="mailto:qpslti1033@gmail.com">
