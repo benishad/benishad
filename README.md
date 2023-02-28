@@ -16,7 +16,7 @@
 <a href="https://instagram.com/yoondong.22">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://www.instagram.com/yoondong.22/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        />
 </a> 
 <a href="mailto:qpslti1033@gmail.com">
     <img 
@@ -33,6 +33,7 @@
                                                                                                
 
 <!--
+style="height : auto; margin-left : 10px; margin-right : 10px;"
 **benishad/benishad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Autodesk-#0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 
